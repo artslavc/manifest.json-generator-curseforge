@@ -2,6 +2,12 @@
     "name": "",
     "version": "1.0",
     "author": "",
+    "modLoaders": [
+        {
+            "id": "forge-47.4.4",
+            "primary": true
+        }
+    ],
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
     "minecraft": {
